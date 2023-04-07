@@ -5987,3 +5987,9 @@ section .section-title {
     margin-bottom: 10px;
 }
 }
+section.widget.widget_block{
+	padding: unset;
+}
+ul.list-unstyled.quick-links{
+	margin-top: 0;
+}
